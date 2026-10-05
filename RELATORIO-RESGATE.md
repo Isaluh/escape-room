@@ -40,11 +40,11 @@
 - O repositório também continha configurações locais que deveriam ser ignoradas pelo Git; a correção foi registrada no `.gitignore`.
 
 ## Comandos Git utilizados
--git revert: Desfazer um commit. Cria um novo commit que desfaz as alterações de um commit anterior.
--git restore: Restaurar arquivos. Desfaz alterações em arquivos que ainda não foram commitadas.
--git add .gitignore: Adiciona o arquivo .gitignore à área de staging
--git rm: Remove um arquivo do Git e, normalmente, também do computador
--echo: Exibe ou escreve um texto/valor no terminal ou em um arquivo
+- git revert: Desfazer um commit.
+- git restore: Restaurar arquivos. 
+- git add .gitignore: Adiciona o arquivo.
+- git rm: Remove um arquivo.
+- echo: Exibe ou escreve um texto/valor em um arquivo.
 
 ## Commits relevantes
 commit 64f88f6f058bf6279244314b3b444d1c0fef0d23
